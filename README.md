@@ -14,4 +14,6 @@ Focus on the negative reviews 2023 - 2025. They are 748. As their texts aren't s
 A detailed one by one work of every comment in order to find particular stories or situations thay may help to detect serious problems.
 # Scale possibility
 More hospitals. In different regions or provinces.
+# Graphics
+They were made with DataWrapper, Flourish and PyWaffle in Jupyter Notebook.
 
